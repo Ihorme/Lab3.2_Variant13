@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lab3.2_Variant13": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
